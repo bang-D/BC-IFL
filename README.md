@@ -30,7 +30,7 @@
   > python train.py
   
 **Evaluation**
-  > python text.py
+  > python test.py
 
 **Part of experiments results**
 
